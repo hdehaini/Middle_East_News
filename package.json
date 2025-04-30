@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "lexrank": "^1.0.5",
+    "node-summary": "^1.2.0"
+  }
+}
